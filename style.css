@@ -240,7 +240,8 @@ i {
         margin: auto;
     }
     #about img{
-        padding: 40px;
+        padding: 50px;
+        margin-left:-40px;
     }
 
 
